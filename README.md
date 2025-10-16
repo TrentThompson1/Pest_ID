@@ -13,7 +13,18 @@ more informed actions.
 
 Data set from: https://www.kaggle.com/datasets/gauravduttakiit/agricultural-pests-dataset?resource=download&select=test
 
-## Imports
-``bash
-pip install tensorflow
-``
+## Requirements
+
+tensorflow>=2.15.0
+
+numpy>=1.25.0
+
+pandas>=2.1.0
+
+scikit-learn>=1.3.0
+
+matplotlib>=3.8.0
+
+opencv-python>=4.8.0
+
+jupyter>=1.0.0
